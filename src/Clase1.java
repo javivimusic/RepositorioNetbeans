@@ -9,5 +9,6 @@
  * @author Alumno_2
  */
 public class Clase1 {
+    private int campo1;
     
 }
